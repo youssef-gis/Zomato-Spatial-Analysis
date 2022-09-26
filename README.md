@@ -1,4 +1,3 @@
-# Spatial-analysis
 # GeoSpatial Analysis - Zomato Data Analysis Project 🔥
 
 <p align="center">
