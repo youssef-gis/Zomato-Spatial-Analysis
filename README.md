@@ -10,21 +10,11 @@
 
 # 📝Problem Statement
 Analysis of the following is required by the Sales Director of Zomato Food Chain:
+ 
+    1. Restaurant locations in Bengaluru
+    2. Analyze where are the Restaurants with Most Average Ratings.
+    3. Cluster of particular Cuisines in Bangalore. North Indian Restaurants, South Indian Restaurants, Biryani Cuisines..
 
-    1. Most famous Restaurant Chains in Bangalore.
-    2. Analyse Restaurants which are Accepts Online Order and do not ones.
-    3. Highest Voted Restaurant.
-    4. Places with Maximum Number of Restaurants / Total Restaurants at different locations of Bangalore.
-    5. Total Number of variety of Cuisine Restaurants in Bangalore.
-    6. Relationship between "Approx Cost of 2 People" vs "Rating" for those Restaurant that Accepts "Online Order" and for those Restaurants that doesn't Accept "Online Order".
-    7. Is there any difference b/w 'Votes' and 'Restaurants' Accepting and Not Accepting "Online_Orders".
-    8. Identify Restaurants that are Budgeted Hotels as well as Affordable.
-    9. Restaurants having good Rating and Budgeted/Affordable too.
-    10. Most Foodie Areas of Bangalore.
-    11. Clutter of particular Cuisines in Bangalore. North Indian Restaurants, South Indian Restaurants, Biryani Cuisines.
-    12. Analyze where are the Restaurants with Most Average Ratings.
-
-And so many more!!
 
 # ⏳ Dataset
 Download the dataset for this project from following Link -
