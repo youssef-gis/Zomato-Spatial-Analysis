@@ -29,7 +29,7 @@ And so many more!!
 
 # ⏳ Dataset
 Download the dataset for this project from following Link -
-* [Zomato Bangalore Restaurants](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants/download)
+* [Zomato Bangalore Restaurants](https://drive.google.com/file/d/1TKrIHvWzE6mzX_zgm4tETNw1TctjLtEA/view?usp=sharing)
 
 # 📚 Data Analysis
 In the datasets, we are provided with 17 columns(Features) of data.
